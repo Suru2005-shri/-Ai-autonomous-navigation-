@@ -1,0 +1,11 @@
+{
+  "algorithm": "astar",
+  "grid_size": 20,
+  "success": true,
+  "steps": 28,
+  "replan_count": 4,
+  "avoid_count": 10,
+  "nodes_explored": 249,
+  "path_length": 35,
+  "elapsed_s": 0.007
+}
